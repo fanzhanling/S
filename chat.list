@@ -1,8 +1,4 @@
-# 内容：Bahamut
+# 内容：chat
 # 数量：6条
 USER-AGENT,Anime*
-DOMAIN,bahamut.akamaized.net
-DOMAIN,gamer-cds.cdn.hinet.net
-DOMAIN,gamer2-cds.cdn.hinet.net
-DOMAIN-SUFFIX,bahamut.com.tw
-DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,openai.com
